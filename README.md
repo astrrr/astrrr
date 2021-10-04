@@ -1,4 +1,4 @@
-### Hi 👋, I'm Sekson Thong-on 
+### Hi 👋, I'm Sekson  
 Student, KMITL
 
 ### Now playing 🎧🎶

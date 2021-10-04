@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<img src="https://https://readme-spotify-status-qphokmhth-astrrr.vercel.app//api/run-spotify-status" alt="Your alt what" width="500" />](https://open.spotify.com/user/215k6liyjkpwnbrjjgvest2wq)
+[<img src="https://readme-spotify-status2-astrrr.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" />](https://open.spotify.com/user/215k6liyjkpwnbrjjgvest2wq) 
 
 
 <!--

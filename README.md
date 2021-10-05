@@ -3,7 +3,7 @@ Student, KMITL
 
 ### Now playing 🎧🎶
 
-[<img src="https://readme-spotify-status2-astrrr.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" />](https://open.spotify.com/user/215k6liyjkpwnbrjjgvest2wq) 
+[<img src="https://readme-spotify-status2-astrrr.vercel.app/api/run-spotify-status" alt="astrrr" width="500" />](https://open.spotify.com/user/215k6liyjkpwnbrjjgvest2wq) 
 
 
 ![astrrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrrr&show_icons=true&theme=cobalt)

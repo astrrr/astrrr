@@ -5,6 +5,7 @@ Student, KMITL
 
 [<img src="https://readme-spotify-status2-astrrr.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" />](https://open.spotify.com/user/215k6liyjkpwnbrjjgvest2wq) 
 
+[![astrrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrrr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **astrrr/astrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

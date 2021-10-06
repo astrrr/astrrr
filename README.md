@@ -16,7 +16,7 @@ Student, KMITL
 
 ---
 <details>
-  <summary>Laguages</summary>
+  <summary>Languages</summary>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrrr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

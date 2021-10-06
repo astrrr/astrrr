@@ -21,9 +21,18 @@ Student, KMITL
 <details>
   <summary>GitHub Stats</summary>
 
-  ![astrrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrrr&count_private=true&show_icons=true&theme=radical)
+  ![astrrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrrr&count_private=true&show_icons=true&theme=cobalt)
 
 </details>
+
+---
+<details>
+  <summary>Laguages</summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrrr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
 <!--
 **astrrr/astrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

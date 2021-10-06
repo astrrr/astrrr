@@ -7,11 +7,11 @@ Student, KMITL
 
 ---
 
+<details> 
+   <summary>GitHub Stats</summary>
+     ![astrrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrrr&show_icons=true&theme=cobalt)
  
-  
-  ![astrrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrrr&show_icons=true&theme=cobalt)
- 
-
+</details>
 ---
 
  

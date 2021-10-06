@@ -7,11 +7,10 @@ Student, KMITL
 
 ---
 
-<details> 
-   <summary>GitHub Stats</summary>
-     ![astrrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrrr&show_icons=true&theme=cobalt)
+
+ ![astrrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrrr&show_icons=true&theme=cobalt)
  
-</details>
+
 ---
 
  
@@ -19,7 +18,12 @@ Student, KMITL
   
 
 ---
+<details>
+  <summary>GitHub Stats</summary>
 
+  ![astrrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrrr&count_private=true&show_icons=true&theme=radical)
+
+</details>
 <!--
 **astrrr/astrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

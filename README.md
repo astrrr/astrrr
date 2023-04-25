@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Sekson  
 Student, KMITL
-[![wakatime](https://wakatime.com/badge/user/ddd54512-3e2f-4844-9447-5f5be6af3a5d.svg)](https://wakatime.com/@ddd54512-3e2f-4844-9447-5f5be6af3a5d)
 ---
+[![wakatime](https://wakatime.com/badge/user/ddd54512-3e2f-4844-9447-5f5be6af3a5d.svg)](https://wakatime.com/@ddd54512-3e2f-4844-9447-5f5be6af3a5d)
 ### Now playing 🎧🎶
 
 [<img src="https://readme-spotify-status2-astrrr.vercel.app/api/run-spotify-status" alt="astrrr" width="500" />](https://open.spotify.com/user/215k6liyjkpwnbrjjgvest2wq) 

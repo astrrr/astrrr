@@ -1,5 +1,5 @@
-### Hi 👋, I'm Sekson  
-Student, KMITL
+### Hi 👋
+
 ---
 [![wakatime](https://wakatime.com/badge/user/ddd54512-3e2f-4844-9447-5f5be6af3a5d.svg)](https://wakatime.com/@ddd54512-3e2f-4844-9447-5f5be6af3a5d)
 ### Now playing 🎧🎶

@@ -25,3 +25,7 @@
 
 ---
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=astrrr)
+
+---
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/651d01d11205b5c21b74600f?variant=dark)](https://roadmap.sh)
